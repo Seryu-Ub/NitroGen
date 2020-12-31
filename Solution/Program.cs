@@ -29,7 +29,6 @@ namespace DiscordNitroGeneratorBasic
             Console.WriteLine("Powered By Seryû / Zelensky" + Environment.NewLine);
             Console.ForegroundColor = ConsoleColor.White;
             Console.ReadKey();
-
         }
 
         private static void TimerCallback(Object o)
