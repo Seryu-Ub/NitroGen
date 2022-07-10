@@ -26,7 +26,7 @@ namespace DiscordNitroGeneratorBasic
             Console.WriteLine("==============================================================================================");
             Console.WriteLine("Click on the windows to freeze the generator and press the Enter key to reactivate everything.");
             Console.WriteLine("==============================================================================================" + Environment.NewLine);
-            Console.WriteLine("Powered By Seryû / Zelensky" + Environment.NewLine);
+            Console.WriteLine("Powered By Seryû" + Environment.NewLine);
             Console.ForegroundColor = ConsoleColor.White;
             Console.ReadKey();
         }
