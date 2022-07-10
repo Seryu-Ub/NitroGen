@@ -1,3 +1,3 @@
 # NitroGen
 C# NitroGen + Checker
-oi
+discord oi
